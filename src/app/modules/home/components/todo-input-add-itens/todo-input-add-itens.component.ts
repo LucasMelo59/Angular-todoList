@@ -6,7 +6,7 @@ import { Component, OnInit } from '@angular/core';
   styleUrls: ['./todo-input-add-itens.component.scss']
 })
 export class TodoInputAddItensComponent implements OnInit {
-
+  
   constructor() { }
 
   ngOnInit(): void {
